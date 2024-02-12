@@ -721,6 +721,11 @@ footer {
     }
 
     /* Mobile Nav */
+    #logo {
+        width: 250px;
+        height: auto;
+    }
+
     .checkbtn {
         display: block;
     }
@@ -731,5 +736,69 @@ footer {
 
     #check:checked ~ #mobile-nav { 
         display: flex;
+    }
+
+    /* General Styles */
+    .pagetitle {
+        width: var(--contentwidth3);
+    }
+
+    .pagetitle .btn {
+        transform: translateX(calc(.5 * var(--contentwidth3)));
+    }
+
+    hr {
+        width: var(--contentwidth3);
+    }
+
+    .content {
+        width: var(--contentwidth3);
+    }
+
+    /* Current Sponsors */
+    a.sponsoranc {
+        width: 250px;
+    }
+
+    .sponsoranc img {
+        width: 250px;
+    }
+
+    /* Contact Us */
+    .contact-container {
+        grid-template-columns: 1fr;
+        row-gap: 50px;   
+    }
+
+    #contact-main p {
+        font-size: 18px;
+    }
+    
+    #contact-main a {
+        font-size: 1.5em;
+    }
+
+    .socials-container div {
+        font-size: 40px;
+        border-radius: 15px;
+    }
+    
+    .socials-container p {
+        font-size: 24px;
+    }
+
+    /* Footer */
+    footer, #sponsorfooter {
+        flex-direction: column;
+        height: auto;
+        gap: 25px;
+    }
+
+    #socials {
+        margin-top: 25px;
+    }
+
+    #contact {
+        margin-bottom: 25px;
     }
 }
