@@ -222,7 +222,7 @@ header img {
     padding: 100px 0;
     /* background: linear-gradient(var(--clr-primary), var(--clr-secondary-dull) 55%, var(--clr-primary)); */
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     align-items: center;
     justify-content: center;
     column-gap: 2.5rem;
@@ -486,7 +486,7 @@ no matter the size of the text or anything*/
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 35px;
 }
 
 .socials-container a {

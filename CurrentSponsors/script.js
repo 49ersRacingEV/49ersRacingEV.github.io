@@ -13,14 +13,17 @@ function addCards(sponsors) {
         const image = document.createElement('img');     
         
         switch (sponsor.tier) {
-            case "gold":
+            // case "gold":
+            //     container[0].append(newAnc);
+            //     break;
+            // case "green":
+            //     container[1].append(newAnc);
+            //     break;
+            // case "black":
+            //     container[2].append(newAnc);
+            //     break;
+            case "none":
                 container[0].append(newAnc);
-                break;
-            case "green":
-                container[1].append(newAnc);
-                break;
-            case "black":
-                container[2].append(newAnc);
                 break;
         }
 

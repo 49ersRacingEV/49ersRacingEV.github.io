@@ -1,56 +1,56 @@
 [
     {
         "name": "Kulwicki",
-        "tier": "gold",
+        "tier": "none",
         "image": "../images/sponsors/kulwicki.png",
         "link": "https://motorsports.charlotte.edu/"
     },
     {
         "name": "Motec",
-        "tier": "gold",
+        "tier": "none",
         "image": "../images/sponsors/motec.png",
         "link": "https://www.motec.com.au/home"
     },
     {
         "name": "SKF",
-        "tier": "green",
+        "tier": "none",
         "image": "../images/sponsors/SKF.jpg",
         "link": "https://www.skf.com/us"
     },
     {
-        "name": "Kenesto",
-        "tier": "green",
-        "image": "../images/sponsors/kenesto.jpg",
-        "link": "https://www.kenesto.com/"
-    },
-    {
         "name": "bmrs",
-        "tier": "green",
+        "tier": "none",
         "image": "../images/sponsors/bmrs.jpg",
         "link": "https://www.bmrs.net/"
     },
     {
         "name": "stockcarsteel",
-        "tier": "black",
+        "tier": "none",
         "image": "../images/sponsors/SSC.jpg",
         "link": "https://www.stockcarsteel.com/"
     },
     {
         "name": "FKrodends",
-        "tier": "black",
+        "tier": "none",
         "image": "../images/sponsors/fk.jpg",
         "link": "https://www.fkrodends.com/"
     },
     {
-        "name": "MillerElectric",
-        "tier": "black",
-        "image": "../images/sponsors/millerelectric.png",
-        "link": "https://www.millerwelds.com/"
+        "name": "ButlerBuilt",
+        "tier": "none",
+        "image": "../images/sponsors/butlerbuilt.jpg",
+        "link": "https://www.butlerbuilt.net/"
     },
     {
-        "name": "Safety-Kleen",
-        "tier": "black",
-        "image": "../images/sponsors/safety-kleen.png",
-        "link": "https://www.safety-kleen.com/about-us/motorsports"
+        "name": "Hoosier",
+        "tier": "none",
+        "image": "../images/sponsors/hoosier.jpg",
+        "link": "https://www.hoosiertire.com/"
+    },
+    {
+        "name": "Calspan",
+        "tier": "none",
+        "image": "../images/sponsors/calspan.png",
+        "link": "https://calspan.com/"
     }
 ]
