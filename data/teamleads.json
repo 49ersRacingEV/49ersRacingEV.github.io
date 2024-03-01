@@ -44,7 +44,7 @@
       "position": "Low Voltage Lead",
       "major": "Mechanical Enginering",
       "image": "../images/portraits/lucasholladaysquare.jpg",
-      "link": "",
+      "link": "https://www.linkedin.com/in/lucas-holladay-munoz/",
       "id": 4
    },
    {
@@ -100,14 +100,14 @@
       "position": "Outreach Co-Lead",
       "major": "Mechanical Enginering",
       "image": "../images/portraits/coltranenevruzsquare.jpg",
-      "link": "",
+      "link": "https://www.linkedin.com/in/coltranenevruz/",
       "id": 10
    },
    {
-      "name": "Alexandra Schenk",
+      "name": "Alexandra Schnek",
       "position": "Outreach Co-Lead",
       "major": "Health Systems Management",
-      "image": "../images/portraits/alexschenksquare.png",
+      "image": "../images/portraits/alexschneksquare.png",
       "link": "https://www.linkedin.com/in/aschenk7",
       "id": 11
    }
