@@ -30,6 +30,12 @@
         "link": "https://www.stockcarsteel.com/"
     },
     {
+        "name": "AKGs",
+        "tier": "none",
+        "image": "../images/sponsors/akg.png",
+        "link": "https://www.akg-america.com/akg-of-america/"
+    },
+    {
         "name": "FKrodends",
         "tier": "none",
         "image": "../images/sponsors/fk.jpg",
