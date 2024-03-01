@@ -1,0 +1,4 @@
+Updates
+- Added mobile functionality to the Home page
+- Added AKG to the sponsor list
+- Added LinkedIn Links for Lucas H, Coltrane, and Owen
