@@ -1,7 +1,7 @@
 window.addEventListener('load', async e=> {
     const response = await fetch('../data/sponsors.json');
     const sponsors = await response.json();
-
+    console.log(sponsors);
     addCards(sponsors);
 });
 

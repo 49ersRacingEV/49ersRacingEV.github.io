@@ -1,4 +1,5 @@
 Updates
 - Added mobile functionality to the Home page
-- Added AKG to the sponsor list
+- Added AKG to sponsor list
+- Added WeLOVEFUlfillment to sponsor list
 - Added LinkedIn Links for Lucas H, Coltrane, and Owen

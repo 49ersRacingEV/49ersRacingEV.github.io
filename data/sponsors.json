@@ -48,9 +48,21 @@
         "link": "https://www.hoosiertire.com/"
     },
     {
+        "name": "WeLOVEFulfillment",
+        "tier": "none",
+        "image": "../images/sponsors/welovefulfillment.png",
+        "link": "https://welovefulfillment.com/"
+    },
+    {
         "name": "Calspan",
         "tier": "none",
         "image": "../images/sponsors/calspan.png",
         "link": "https://calspan.com/"
+    },
+    {
+        "name": "FKrodends",
+        "tier": "none",
+        "image": "../images/sponsors/fk.jpg",
+        "link": "https://www.fkrodends.com/"
     }
 ]
