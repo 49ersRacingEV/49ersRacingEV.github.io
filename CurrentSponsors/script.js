@@ -23,7 +23,7 @@ function addCards(sponsors) {
             //     container[2].append(newAnc);
             //     break;
             case "none":
-                container[1].append(newAnc);
+                container[0].append(newAnc);
                 break;
         }
 
