@@ -30,16 +30,11 @@
         "link": "https://www.stockcarsteel.com/"
     },
     {
-        "name": "AKG",
+        "name": "AKGs",
         "tier": "none",
         "image": "../images/sponsors/akg.png",
         "link": "https://www.akg-america.com/akg-of-america/"
     },
-    {
-        "name": "welovefulfillment",
-        "tier": "none",
-        "image": "../images/sponsors/welovefulfillment.pdf",
-        "link": "https://welovefulfillment.com/"
     {
         "name": "FKrodends",
         "tier": "none",
