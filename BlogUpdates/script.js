@@ -28,7 +28,7 @@ function addItems() {
         instaPosts[i].classList.add('hidden');
     }
 
-    for (var i = currentPos; i < currentPos + 2; i++) {
+    for (var i = currentPos; i < currentPos + 3; i++) {
         instaPosts[i].classList.remove('hidden');
     }
 }
